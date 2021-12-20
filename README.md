@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I am Deri Firgiawan from Bandung, West Java, Indonesia. 
-I am a Front End Engineer includes BackEnd who loves coffee, cats, and learns about technology. And I am open to freelance work
+I am a Software Engineer who loves coffee, cats, and learns about technology. And I am open to freelance work
 
-- 🔭 I’m currently working on personal project make conversion of px to rem units with React JS
-- 👯 I’m looking to collaborate on website development with Backend or UI/UX
+- 🔭 I'm currently learning on android jetpack compose
+- 👯 I’m looking to collaborate on website development or Mobile Development with Backend or UI/UX
 - 📫 How to reach me: [derifirgiawan025@gmail.com](mailto:derifirgiawan025@gmail.com)
 - 😄 Pronouns: Call Me Ei
 

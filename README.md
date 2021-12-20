@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Deri Firgiawan from Bandung, West Java, Indonesia. 
-I am a Software Engineer who loves coffee, cats, and learns about technology. And I am open to freelance work
+I am a Software Developer who loves coffee, cats, and learns about technology. And I am open to freelance work
 
 - 🔭 I'm currently learning on android jetpack compose
 - 👯 I’m looking to collaborate on website development or Mobile Development with Backend or UI/UX
